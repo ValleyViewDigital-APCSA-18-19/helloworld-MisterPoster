@@ -1,0 +1,10 @@
+package hello;
+
+public class hello 
+{ //start of hello
+	public static void main(String args[])
+	{
+		
+		System.out.print("Hello Victor");
+	}
+}
